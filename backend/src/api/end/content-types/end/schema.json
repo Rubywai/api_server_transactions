@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "ends",
+  "info": {
+    "singularName": "end",
+    "pluralName": "ends",
+    "displayName": "end"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "end": {
+      "type": "integer"
+    }
+  }
+}
