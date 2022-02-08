@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "transactions",
+  "info": {
+    "singularName": "transaction",
+    "pluralName": "transactions",
+    "displayName": "transactions"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "to": {
+      "type": "text"
+    },
+    "from": {
+      "type": "text"
+    },
+    "hash": {
+      "type": "text"
+    },
+    "input": {
+      "type": "text"
+    },
+    "value": {
+      "type": "text"
+    }
+  }
+}
